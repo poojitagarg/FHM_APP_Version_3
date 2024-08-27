@@ -2,7 +2,7 @@
 This is the project under the [ Uncommon Sense Labs](https://www.uncommonsenselabs.com) directed by Dr. Alexander Adams at GaTech. The project code is developed by Poojita Garg.
 
 ## Objective of the App
-The goal of this research is to build an easy-to-use system for ubiquitous at-home monitoring of fetal health by pregnant women. This study will recruit 20 currently pregnant women. We will collect audio data from the mobile phone (i.e. reflections from the ultrasound signal emitted by the mobile device's speaker). All the participant's data will be de-identified and coded for analysis. 
+The goal of this research is to build an easy-to-use system for ubiquitous at-home monitoring of fetal health by pregnant women. This study will recruit 40 currently pregnant women. We will collect audio data from the mobile phone (i.e. reflections from the ultrasound signal emitted by the mobile device's speaker). All the participant's data will be de-identified and coded for analysis. 
 
 ## Backend of the App
 The App is developed in Xcode 15.1 and Swift 5.9.2 to be used by iphone users only at the time. The proposed methodology of the study includes the app to be used by the medical professional on their personal phone to non-invasively collect audio data by placing the mobile phone (speaker side of the belly with this app opened) on the belly of the pregnant lady. 
